@@ -1,3 +1,3 @@
 # hr-data-analysis 
 
-![Screenshot](HR Analytics Dashboard.png)
+![HR Analytics Dashboard](HR Analytics Dashboard.png)
